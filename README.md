@@ -1,2 +1,2 @@
 # roman-amphitheaters.github.io
-Browsable version of the information in the roman-amphitheaters repository.
+Placeholder for a future website? In the meantime, browse at https://roman-amphitheaters.github.io/browser .
